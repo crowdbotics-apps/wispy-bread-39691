@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@modules/camera": "file:./modules/camera",
+    "@modules/faq": "file:./modules/faq",
     "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
     "@modules/splash": "file:./modules/splash/",
     "@modules/terms-and-conditions-webview": "file:./modules/terms-and-conditions-webview/",
