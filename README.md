@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [camera]()
 - [faq]()
 - [react-native-maps](modules/maps)
+- [payments]()
 
 # Getting started: Frontend
 
